@@ -1,0 +1,3 @@
+# input password below with [] ex:[password123]
+[123]
+[456]
